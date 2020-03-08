@@ -7,12 +7,12 @@ Proof of concept on how a Blockchain could be implemented using TypeScript/JS.
 ## Preview / demo
 The project includes a preview demonstrating how to **create** and **verify** a blockchain.
 
-###Pull the latest source code   
+### Pull the latest source code   
 ```
 git clone https://github.com/chriskilinc/blockchain-pocc
 ```
 
-###Install dependencies    
+### Install dependencies    
 ```
 cd blockchain-pocc    
 ```    
@@ -20,7 +20,7 @@ cd blockchain-pocc
 npm install
 ```
 
-###Run the preview    
+### Run the preview    
 ```
 npm start
 ```
